@@ -1,7 +1,12 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Olá, eu sou a Caroline!.</p>&nbsp;
+<p align="center">Olá, eu sou a Caroline!</p>&nbsp;
+
+<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade do Vale dos Sinos (UNISINOS) desde 2024. </p>&nbsp;
+
+<p align="center">Possuo experiência em design gráfico e estou iniciando minha carreira em desenvolvimento de sistema. No momento possuo experiência em Phython e iniciando estudos em Java, em busca de estágio na área.</p>&nbsp;
+
  
  &nbsp;
  &nbsp;
