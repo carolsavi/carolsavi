@@ -1,38 +1,27 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Olá, eu sou a Caroline!</p>&nbsp;
+<p align="center">Hey there! I'm Caroline!</p>&nbsp;
 
-<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade do Vale dos Sinos (UNISINOS) desde 2024. </p>&nbsp;
+<p align="center">I'm a Systems Analysis and Development student at UNISINOS since 2024.</p>&nbsp;
 
-<p align="center">Possuo experiência em design gráfico e estou iniciando minha carreira em desenvolvimento de sistema. No momento possuo experiência em Phython e iniciando estudos em Java, em busca de estágio na área.</p>&nbsp;
+<p align="center">I'm transitioning from a career in veterinary medicine to the technology field. I have also worked as a graphic designer! Currently seeking internship opportunities to apply my skills and achieve personal and professional growth in tech. </p>&nbsp;
 
- 
  &nbsp;
  &nbsp;
-
-
-#### Habilidades:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Estudando no momento:
+#### Studying  at the moment:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-#### Ferramentas de trabalho:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
 
-## Contatos:
+## Contact:
 
 <div> 
 <a href = "mailto:contato.carolinesavii@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
