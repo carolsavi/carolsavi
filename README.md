@@ -15,7 +15,7 @@
 
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)&nbsp;
 
-![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)&nbsp;
+![JAVA](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)&nbsp;
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 
