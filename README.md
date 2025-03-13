@@ -11,7 +11,11 @@
  &nbsp;
 #### Studying  at the moment:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)&nbsp;
+
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)&nbsp;
+
+![JAVA](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)&nbsp;
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
