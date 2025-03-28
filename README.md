@@ -5,7 +5,7 @@
 
 <p align="center">I'm a Systems Analysis and Development student at UNISINOS since 2024.</p>&nbsp;
 
-<p align="center">I'm transitioning from a career in veterinary medicine to the technology field. I have also worked as a graphic designer! Currently seeking internship opportunities to apply my skills and achieve personal and professional growth in tech. </p>&nbsp;
+<p align="center">I'm transitioning from a career in Veterinary Medicine to the Technology field. I have also worked as a Graphic Designer! Currently seeking internship opportunities to apply my skills and achieve personal and professional growth in Tech. </p>&nbsp;
 
  &nbsp;
  &nbsp;
